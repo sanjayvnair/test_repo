@@ -1,2 +1,6 @@
 this is a test file.
+<<<<<<< HEAD
 This is a new line added.
+=======
+added this line in a new branch.
+>>>>>>> newfile
